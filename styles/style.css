@@ -45,6 +45,10 @@ body {
   font-style: normal;
 }
 
+.header__link .header__links-list-item_no-bullit {
+  text-decoration: none;
+}
+
 .overlay {
   background-color: rgba(0, 0, 0, 0.6);
   position: absolute;
